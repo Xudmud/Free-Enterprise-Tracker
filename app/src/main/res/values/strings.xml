@@ -1,4 +1,144 @@
 <resources>
     <string name="app_name">Free Enterprise Tracker</string>
     <string name="action_settings">Settings</string>
+
+    <!-- Key Item icon alt text -->
+    <string name="key_baron">Baron Key</string>
+    <string name="key_luca">Luca Key</string>
+    <string name="key_magma">Magma Key</string>
+    <string name="key_tower">Tower Key</string>
+    <string name="key_darkness">Darkness Crystal</string>
+    <string name="key_earth">Earth Crystal</string>
+    <string name="key_hook">Hook</string>
+    <string name="key_harp">TwinHarp</string>
+    <string name="key_package">Package</string>
+    <string name="key_pan">Pan</string>
+    <string name="key_sand">SandRuby</string>
+    <string name="key_rat">Rat</string>
+    <string name="key_adamant">Adamant</string>
+    <string name="key_legend">Legend</string>
+    <string name="key_spoon">Spoon</string>
+    <string name="key_pink">Pink</string>
+    <string name="key_mist">D.Mist</string>
+    <string name="key_crystal">Crystal</string>
+    <string name="key_pass">Pass</string>
+
+    <!-- Check Locations -->
+    <string name="adamant_cave">Adamant Cave</string>
+    <string name="antlion_cave">Antlion Cave</string>
+    <string name="baron_king">Baron Castle [King]</string>
+    <string name="baron_odin">Baron Castle [Odin]</string>
+    <string name="baron_town">Town of Baron</string>
+    <string name="fabul_defend">Fabul [Defend]</string>
+    <string name="magnes_cave">Magnes Cave</string>
+    <string name="mist_village">Mist Village</string>
+    <string name="mt_ordeals">Mt Ordeals</string>
+    <string name="tower_zot">Tower of Zot</string>
+    <string name="dwarf_castle">Dwarf Castle</string>
+    <string name="fabul_sylph">Fabul [Yang/Sylph]</string>
+    <string name="fabul_pan">Fabul [Yang/Pan]</string>
+    <string name="feymarch_chest">Feymarch [Chest]</string>
+    <string name="feymarch_asura">Feymarch [Asura]</string>
+    <string name="feymarch_leiatan">Feymarch [Leviathan]</string>
+    <string name="babil_lower_boss">Lower Babil [Boss]</string>
+    <string name="babil_lower_cannon">Lower Babil [Cannon]</string>
+    <string name="sealed_cave">Sealed Cave</string>
+    <string name="sylph_cave">Sylph Cave</string>
+    <string name="bahamut">Bahamut</string>
+    <string name="lunar_crystal">Lunar [Crystal]</string>
+    <string name="lunar_masamune">Lunar [Masamune]</string>
+    <string name="lunar_murasame">Lunar [Murasame]</string>
+    <string name="lunar_ribbon">Lunar [Ribbon]</string>
+
+    <!-- Boss icon alt text -->
+    <string name="boss_mist">Mist Dragon</string>
+    <string name="boss_baron_soldiers">Baron Soldiers</string>
+    <string name="boss_octomamm">Octomamm</string>
+    <string name="boss_antlion">Antlion</string>
+    <strign name="boss_waterhag">Waterhag</strign>
+    <string name="boss_fabul">Fabul Gauntlet</string>
+    <string name="boss_milon">Milon</string>
+    <string name="boss_milonz">MilonZ</string>
+    <string name="boss_painman">Dark Knight Cecil</string>
+    <string name="boss_baron_guards">Baron Guards</string>
+    <string name="boss_yang">Yang</string>
+    <string name="boss_baigan">Baigan</string>
+    <string name="boss_kainazzo">Kainazzo</string>
+    <string name="boss_darkelf">Dark Elf</string>
+    <string name="boss_magus">Magus Sisters</string>
+    <string name="boss_valvalis">Valvalis</string>
+    <string name="boss_calbrena">Calcabrena</string>
+    <string name="boss_golbez">Golbez</string>
+    <string name="boss_lugae">Dr Lugae</string>
+    <string name="boss_imps">Dark Imps</string>
+    <string name="boss_eblan">K &amp; Q Eblan </string>
+    <string name="boss_rubicant">Rubicant</string>
+    <string name="boss_wall">Evil Wall</string>
+    <string name="boss_elements">Elementals</string>
+    <string name="boss_cpu">CPU</string>
+    <string name="boss_odin">Odin</string>
+    <string name="boss_asura">Asura</string>
+    <string name="boss_leviatan">Leviathan</string>
+    <string name="boss_bahamut">Bahamut</string>
+    <string name="boss_paledim">Pale Dim</string>
+    <string name="boss_lunard">Lunar Dragons</string>
+    <string name="boss_plague">Plague</string>
+    <string name="boss_ogopogo">Ogopogo</string>
+    <string name="boss_wyvern">Wyvern</string>
+
+    <!-- Character icon alt text-->
+    <string name="char_cecil">Cecil</string>
+    <string name="char_kain">Kain</string>
+    <string name="char_rydia">Rydia</string>
+    <string name="char_tellah">Tellah</string>
+    <string name="char_Edward">Edward</string>
+    <string name="char_rosa">Rosa</string>
+    <string name="char_yang">Yang</string>
+    <string name="char_palom">Palom</string>
+    <string name="char_porom">Porom</string>
+    <string name="char_cid">Cid</string>
+    <string name="char_edge">Edge</string>
+    <string name="char_fusoya">FuSoYa</string>
+
+    <!-- Town names -->
+    <string name="town_agart">Agart</string>
+    <string name="town_baron">Town of Baron</string>
+    <string name="town_eblan">Eblan Cave</string>
+    <string name="town_fabul">Fabul</string>
+    <string name="town_kaipo">Kaipo</string>
+    <string name="town_mysidia">Mysidia</string>
+    <string name="town_silvera">Silvera</string>
+    <string name="town_troia_item">Troia [Item]</string>
+    <string name="town_troia_pub">Troia [Pub]</string>
+    <string name="town_dwarf">Dwarf Castle</string>
+    <string name="town_feymarch">Feymarch</string>
+    <string name="town_tomara">Tomara</string>
+    <string name="town_hummingway">Hummingway</string>
+
+    <!-- Trapped chest locations -->
+    <string name="trap_eblan_castle">Castle Eblan</string>
+    <string name="trap_eblan_cave">Eblan Cave</string>
+    <string name="trap_giant">Giant of Babil</string>
+    <string name="trap_zot">Tower of Zot</string>
+    <string name="trap_babil_upper">Upper Babil</string>
+    <string name="trap_feymarch">Feymarch</string>
+    <string name="trap_babil_lower">Lower Babil</string>
+    <string name="trap_sylph">Sylph Cave</string>
+    <string name="trap_lunar_path">Lunar Path</string>
+    <string name="trap_lunar_sub">Lunar Sub.</string>
+
+    <!-- "Important" shop items -->
+    <string name="item_life">Life</string>
+    <string name="item_cure">Cure 1/2/3</string>
+    <string name="item_ether">Ether 1/2</string>
+    <string name="item_tent">Tent/Cabin</string>
+    <string name="item_coffin">Coffin</string>
+    <string name="item_siren">Siren</string>
+    <string name="item_bacchus">Bacchus</string>
+    <string name="item_illusion">Illusion</string>
+    <string name="item_hrglass">HrGlass 1/2/3</string>
+    <string name="item_starmoon">StarVeil/MoonVeil</string>
+    <string name="item_damage">Stardust/GaiaDrum/Grimoire</string>
+    <string name="item_other">Other</string>
+
 </resources>
