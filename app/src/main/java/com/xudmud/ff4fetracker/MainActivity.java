@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         //TODO: Add character checks
         //TODO: Add boss tracking
         //TODO: Add icons
-        //TODO: Ask Dunka about using character/item assets
+        //TODO: Ask SchalaKitty about using character/item assets
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);

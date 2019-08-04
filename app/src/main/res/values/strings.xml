@@ -23,7 +23,7 @@
     <string name="key_crystal">Crystal</string>
     <string name="key_pass">Pass</string>
 
-    <!-- Check Locations -->
+    <!-- Key Item/Character Check Locations -->
     <string name="adamant_cave">Adamant Cave</string>
     <string name="antlion_cave">Antlion Cave</string>
     <string name="baron_king">Baron Castle [King]</string>
